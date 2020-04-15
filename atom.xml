@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-04-15T06:08:01.632Z</updated>
+  <updated>2020-04-15T06:29:08.226Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://yoursite.com/2020/04/15/%E6%B5%8B%E8%AF%95/"/>
     <id>http://yoursite.com/2020/04/15/%E6%B5%8B%E8%AF%95/</id>
     <published>2020-04-15T06:07:23.000Z</published>
-    <updated>2020-04-15T06:08:01.632Z</updated>
+    <updated>2020-04-15T06:29:08.226Z</updated>
     
     <content type="html"><![CDATA[<h1 id="我的博客开通了"><a href="#我的博客开通了" class="headerlink" title="我的博客开通了"></a>我的博客开通了</h1>]]></content>
     
@@ -34,6 +34,8 @@
     
     </summary>
     
+    
+      <category term="其他" scheme="http://yoursite.com/categories/%E5%85%B6%E4%BB%96/"/>
     
     
   </entry>
